@@ -1,0 +1,28 @@
+{
+  "name": "Personal Branding Intro Presentation",
+  "authors": [
+    "MatthewCoupal <coupal.matthew@gmail.com>"
+  ],
+  "description": "A presentation to introduce personal branding to students",
+  "main": "personal_branding.html",
+  "keywords": [
+    "personal",
+    "branding",
+    "marketing",
+    "students",
+    "career"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "^3.3.0"
+  }
+}
